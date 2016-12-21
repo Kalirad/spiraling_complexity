@@ -1,4 +1,4 @@
-# Spiraling_complexity
+# spiraling_complexity
 
 A monomorphic model, which uses RNA sequences, to simulate of the evolution of Dobzhansky-Muller incompatibilities. For more information see https://doi.org/10.1101/076232.
 
