@@ -6,6 +6,6 @@ Contains the following files:
 
 + RNA_folding_model.py: The model written in Python.
 
-+ RNA folding model demo.ipynb: An ipython notebook showing RNA_folding_model.py in action.  
++ RNA_folding_model_demo.ipynb: An ipython notebook showing RNA_folding_model.py in action.  
 
 + Ref_seqs.txt: A list of 1000 reference sequences (FASTA format) used in our paper.
