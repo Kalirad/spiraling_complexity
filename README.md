@@ -1,9 +1,11 @@
 # spiraling_complexity
 
-A monomorphic model, which uses RNA sequences, to simulate of the evolution of Dobzhansky-Muller incompatibilities. For more information see https://doi.org/10.1101/076232.
+A model of sequence divergence on a holey fitness landscape based on RNA folding to simulate the accumulation of Dobzhansky-Muller incompatibilities. For more information see https://doi.org/10.1101/076232.
 
-RNA_folding_model.py: The model written in Python.
+Contains the following files:
 
-RNA folding model demo.ipynb: An ipython notebook showing RNA_folding_model.py in action.  
+*RNA_folding_model.py: The model written in Python.
 
-Ref_seqs.txt: A list of 1000 reference sequences (FASTA format) used in our paper.
+*RNA folding model demo.ipynb: An ipython notebook showing RNA_folding_model.py in action.  
+
+*Ref_seqs.txt: A list of 1000 reference sequences (FASTA format) used in our paper.
