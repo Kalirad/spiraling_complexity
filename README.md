@@ -14,7 +14,7 @@ Contains the following files:
 
 + supp_figures.ipynb: An ipython notebook which allows you to recreate the supplementary figures from Kalirad & Azevedo 2017 from data in stats folder.
 
-+ holeyness_alpha_4 to 20: Summary statatistics files used by main_figures.ipynb and supp_figures.ipynb. 
++ holeyness_alpha_4 to 20: Summary statistics files used by main_figures.ipynb and supp_figures.ipynb. 
 
 + Reference_seqs:  A folder containing reference sequences (FASTA format) for different alpha values used in our paper.
 
