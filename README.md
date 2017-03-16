@@ -1,23 +1,25 @@
 # spiraling_complexity
 
-A model of sequence divergence on a holey fitness landscape based on RNA folding to simulate the accumulation of Dobzhansky-Muller incompatibilities. For more information see https://doi.org/10.1101/076232.
+A model of sequence divergence on a holey fitness landscape based on RNA folding to simulate the accumulation of Dobzhansky-Muller incompatibilities (DMIs).
 
-Contains the following files:
+Data and code associated with:
 
-+ spiraling.nb: A mathmatica notebook demonstrating who to drive the modifeid Orr model and the number of inviable single   introgressions.
+Kalirad A & Azevedo RBR. Spiraling Complexity: A Test of the Snowball Effect in a Computational Model of RNA Folding. *bioRxiv* doi: https://doi.org/10.1101/076232.
 
-+ RNA_simulation.py: The model written in Python.
+## Contents:
 
-+ RNA_simulation_demo.ipynb: An ipython notebook showing RNA_folding_model.py in action.  
++ RNA_simulation.py: The model written in Python 2.7.
 
-+ main_figures.ipynb: An ipython notebook which allows you to recreate the main figures from Kalirad & Azevedo 2017 from data in stats folder.
++ RNA_simulation_demo.ipynb: ipython notebook illustrating the use of RNA_simulation.py.  
 
-+ supp_figures.ipynb: An ipython notebook which allows you to recreate the supplementary figures from Kalirad & Azevedo 2017 from data in stats folder.
++ main.ipynb: ipython notebook to generate Figures 2, 3, 5, and 7-9, Table 1, and miscellaneous results.  
 
-+ holeyness_alpha_4 to 20: Summary statistics files used by main_figures.ipynb and supp_figures.ipynb. 
++ supporting.ipynb: ipython notebook to generate Figures S1-S7, Tables S1-S3, and miscellaneous results.  
 
-+ Reference_seqs:  A folder containing reference sequences (FASTA format) for different alpha values used in our paper.
++ holeyness_alpha_*: data used in main.ipynb and supporting.ipynb.
 
-+ stats: A folder containg all the results (zip format) needed to recreate the figures in our paper.
++ bp_12_introgr.csv: data used by main.ipynb and supporting.ipynb.
 
++ Reference_seqs: folder containing reference sequences for different values of alpha (in FASTA format).
 
++ stats: folder containg data used by main.ipynb and supporting.ipynb (zip format).
