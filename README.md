@@ -4,7 +4,7 @@ A model of sequence divergence on a holey fitness landscape based on RNA folding
 
 Data and code associated with:
 
-Kalirad A & Azevedo RBR. Spiraling Complexity: A Test of the Snowball Effect in a Computational Model of RNA Folding. *bioRxiv* doi: https://doi.org/10.1101/076232.
+Kalirad A & Azevedo RBR. Spiraling Complexity: A Test of the Snowball Effect in a Computational Model of RNA Folding. *Genetics* doi: https://doi.org/10.1534/genetics.116.196030.
 
 ## Contents:
 
